@@ -1,0 +1,5 @@
+insert into Country values(1,'Buenos Aires','Argentina','Spanish','+54','Americas')
+insert into Country values(2,'Belmopan','Belize','English','+501','Americas')
+insert into Country values(3,'Sucre','Bolivia','Spanish','+591','Americas')
+insert into Country values(4,'Santiago','Chile','Spanish','+56','Americas')
+insert into Country values(5,'Bogotá','Colombia','Spanish','+57','Americas')
